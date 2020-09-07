@@ -1,0 +1,1 @@
+https://0letodqt4m.execute-api.us-east-1.amazonaws.com/apiMaskCount/maskcount?
